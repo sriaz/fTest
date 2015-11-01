@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("lets go")
         
         print("test nother")
+        print("branchA")
     }
 
     override func didReceiveMemoryWarning() {
