@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         print("test nother")
         print("branchA")
         
-        print("branch B")
+        print("branch C")
     }
 
     override func didReceiveMemoryWarning() {
